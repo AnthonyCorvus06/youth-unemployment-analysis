@@ -26,7 +26,7 @@ Key contributions include:
 
 All results, tables, and figures included in the paper and slides can be regenerated using the steps below.
 
-### 1. Clone the repository### 1. Clone the repository
+### 1. Clone the repository 1. Clone the repository
 ```bash
 git clone https://github.com/AnthonyCorvus06/youth-unemployment-analysis.git
 cd youth-unemployment-analysis
